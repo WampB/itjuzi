@@ -1,0 +1,51 @@
+Jonathan Megevand	Insensi · Software Engineer	Jonathan Megevand serves as firmware and embedded software engineer at HYPR.	先进制造	种子轮	国内	https://www.itjuzi.com/person/257056
+Hunter Hastings	Tempo Automation · Sr. Product Designer	Designer at Localize.	先进制造	A轮	国内	https://www.itjuzi.com/person/290489
+Gerhard Schultes	Naked Labs · CTO	Gerhard Schultes is CTO at Naked Labs.	先进制造	A轮	国内	https://www.itjuzi.com/person/276123
+曾琢	沃时科技 · CEO	曾琢，沃时科技CEO。	企业服务	Pre-A轮	国内	https://www.itjuzi.com/person/147938
+Ross Bates	Worlds · CTO	Mr. Ross Bates is Co-Founder and Chief Technology Officer at Worlds Enterprises, Inc. An expert in business intelligence and data,Ross Bates co-founded mobile shopping app Key Ring team and served as CTO until its acquisition by Gannett Media. Ross has also worked as a systems and data architect for several business intelligence companies,including Hitachi Consulting, Hyperion Solutions, and Navigator Systems.Read More	企业服务	A轮	国内	https://www.itjuzi.com/person/241325
+刁青松	觉华医疗 · 联合创始人兼CEO	刁青松，觉华医疗联合创始人兼CEO。	医疗健康	天使轮	国内	https://www.itjuzi.com/person/365936
+魏耀广	心永科技 · 联合创始人	魏耀广，联合创始人，博士毕业于美国明尼苏达大学电子工程专业，曾在美国IBM、微软担任高级工程师多年，AI和算法领域经验丰富。	医疗健康	天使轮	国内	https://www.itjuzi.com/person/162310
+呼建文	拜谱生物 · CEO	呼建文，拜谱生物CEO。	医疗健康	Pre-A轮	国内	https://www.itjuzi.com/person/150870
+胡江滨	药明博锐 · 董事长兼首席执行官	胡江滨，药明博锐董事长兼首席执行官。	医疗健康	A轮	国内	https://www.itjuzi.com/person/172094
+Doane Cahyadi	Kioson · Chief Executive Officer	Doane Cahyadi is the Chief Executive Officer at PT KIOSON KOMERSIAL INDONESIA, TBK.	电商零售	种子轮	国内	https://www.itjuzi.com/person/291973
+张海亮	电咖汽车 · CEO	张海亮，天际汽车（此前的北京电咖汽车）CEO。曾担任上汽集团副总裁、上汽大众总经理、上汽大众汽车销售有限公司总经理等职位，并率领上汽大众成为国内汽车企业的销量冠军，有着丰富的汽车行业从业经验。2016年4月加盟乐视汽车，担任乐视超级汽车(中国)总裁兼COO。2017年3月20日，张海亮升任为乐视超级汽车(LeSEE)全球CEO。2017年10月离职创业。	汽车交通	Pre-A轮	国内	https://www.itjuzi.com/person/77112
+姚科杰	乐行科技 · 联合创始人&战略资源副总裁	姚科杰，乐行科技联合创始人&战略资源副总裁。任职华为技术及合资公司10年，在运营商、大型企业、政府及事业单位都有良好的积累，有着丰富的一线大客户拓展经验。	汽车交通	A轮	国内	https://www.itjuzi.com/person/129591
+胡泽良	拍益得 · CEO	胡泽良，拍益得CEO。	金融	A轮	国内	https://www.itjuzi.com/person/151900
+王启立	赢贝金融 · 首席执行官	在IT高科技领域和互联网金融行业拥有12年以上丰富经验，擅长团队搭建、产品设计、技术研发和运营管理。深度涉足于社交金融、供应链金融、消费金融、智能投顾等金融科技领域。此前曾就职于全球知名软件公司Autodesk，在3D、移动互联网、云计算、大数据挖掘和人工智能方面均进行过深入研究，积累了丰富的实战经验。	金融	A轮	国内	https://www.itjuzi.com/person/112780
+叶桂兰	创食纪 · CEO	叶桂兰，成都创食纪科技有限责任公司CEO	本地生活	种子轮	国内	https://www.itjuzi.com/person/158284
+殷斯坦	LUCYLEE · 联合创始人	殷斯坦，LUCYLEE联合创始人。中国人民大学日语系。曾任职人人海外事业部、ENJOY和日本Recruit集团的产品负责人。曾为葡萄酒电商醉鹅娘运营合伙人和开局公关CEO。	本地生活	A轮	国内	https://www.itjuzi.com/person/164975
+刘思洋	弗斯特国际艺术教育 · CEO	刘思洋，弗斯特国际艺术教育CEO。	教育	A轮	国内	https://www.itjuzi.com/person/125626
+高能	妖梦网络 · CTO	8年以上担任技术总监、首席工程师经历。擅长大数据并发处理、云计算处理、数据同步等平台核心技术。原KICK9技术总监。	游戏	种子轮	国内	https://www.itjuzi.com/person/68633
+许一帆	黑潮互娱 · 董事长兼总经理	许一帆，深圳黑潮互动娱乐有限公司董事长兼总经理	游戏	Pre-A轮	国内	https://www.itjuzi.com/person/99840
+iamjanson	上海闻宇网络Movegame · 联合创始人	iamjanson，上海闻宇网络科技有限公司联合创始人。	游戏	Pre-A轮	国内	https://www.itjuzi.com/person/6991
+陈鹏	柏壹互娱 · CEO	陈鹏，柏壹互娱CEO。	游戏	A轮	国内	https://www.itjuzi.com/person/126055
+关文舸	渝眼TV · 董事长	关文舸，渝眼TV董事长。	文娱传媒	天使轮	国内	https://www.itjuzi.com/person/134252
+刘谋PDD	YM电竞 · 创始人	刘谋，英雄联盟项目电子竞技选手，游戏ID为PDD，前NGG、EHOME战队LOL分部队长，后转会并退役于Invictus Gaming.LOL分部，IG战队上单选手。2013年SWL联赛第二赛季冠军，2013IEM新加坡站冠军，2014LPL春季赛亚军。2014年6月15日，刘谋在微博上宣布正式退役。	体育运动	天使轮	国内	https://www.itjuzi.com/person/103074
+徐敏	猪了个球 · 创始人	徐敏，嘉兴市单身狗贸易有限公司、租了个球创始人及CEO。	体育运动	Pre-A轮	国内	https://www.itjuzi.com/person/47374
+安亚文	火星电竞 · 创始人	安亚文，火星电竞创始人，曾负责过《王者荣耀》的电竞体系搭建、产品建设与传播推广，目前负责产品研发工作。	体育运动	A轮	国内	https://www.itjuzi.com/person/159776
+刘桥	蜂达达 · CEO	刘桥，上海桥廓网络科技有限公司的CEO。	物流	种子轮	国内	https://www.itjuzi.com/person/30490
+曹睿	坤厚自动化 · 创始人	曹睿，苏州坤厚自动化科技有限公司创始人,Xilinx嵌入式系统解决方案专家，拥有十多年海外机器人系统和随机过程算法工作经验，对机器人定位导航和群控技术具有独到的见解。2015年归国创建苏州坤厚自动化科技有限公司，并被评选为“姑苏创新创业领军人才”“阳澄湖科技领军人才”。他毕业于新加坡国立大学超大规模集成电路系，是领取全额奖学金的优秀硕士毕业生。本科阶段就已经是浙江大学工业控制国家重点实验室机器人实验室的优秀毕业生。	物流	Pre-A轮	国内	https://www.itjuzi.com/person/116923
+张东	小帮快送 · 创始人	张东，小帮快送创始人兼CEO。	物流	Pre-A轮	国内	https://www.itjuzi.com/person/97554
+Adeel Zaman	Dozr · Co-Founder & CTO	Adeel Zaman is the CTO & Co-Founder of DOZR.	房地产	天使轮	国内	https://www.itjuzi.com/person/276104
+赵理辉	靠我 · CEO	赵理辉，靠我CEO，前阿里十年老兵，曾任阿里品控总监。	房地产	A轮	国内	https://www.itjuzi.com/person/16248
+洪翔	秒送 · 联合创始人	洪翔，秒送联合创始人，18年地推经验，2003-06年在天猫做地推，曾领导超过50人团队。	广告营销	种子轮	国内	https://www.itjuzi.com/person/15180
+吴彧刚	爱途邦 · 创始人	双子座，男。他在创办爱途国际文化交流有限公司以前在国内最大的两家航空公司南航和海航长期从事航空运输及管理工作；18年航空及旅游行业从业经验，涉猎交通、旅游地产和IT领域。热爱旅游，资深旅行达人，足迹涉及五大洲，致力于创立社交定制旅行平台，集合更多如同他这样会旅行的人们去服务影响更多的爱旅行的人。Travel like a Local，创业格言：有生之年我们都要去深度的体验世界大不同。	旅游	种子轮	国内	https://www.itjuzi.com/person/84590
+崔学延	糖罐旅行 · 联合创始人	糖罐旅行联合创始人，凤凰旅游高管，旅行行业 18 年实战经验，有丰富的出境旅行服务经验擅长全球目的地的主题及特色旅行产品策划及项目服务执行。参与策划王石、张朝阳瑞士户外运动主题旅行等。	旅游	种子轮	国内	https://www.itjuzi.com/person/20100
+胡崛	游滨果 · COO	胡崛Hayden，游滨果科技联合创始人、COO。10余年IT互联网行业经验，前富士康、磨房网产品经理，拥有丰富的产品、运营、市场、技术与团队管理经验。	旅游	天使轮	国内	https://www.itjuzi.com/person/158086
+史本晓	悦游五洲 · CEO	史本晓，毕业于中国音乐学院。	旅游	Pre-A轮	国内	https://www.itjuzi.com/person/29692
+王俊辉	逸途旅行 · 联合创始人	逸途（北京）旅游文化发展有限公司 联合创始人	旅游	A轮	国内	https://www.itjuzi.com/person/72872
+陈启华	咿呀科技 · 联合创始人	玛格南图片社提名摄影师，美国职业摄影师协会会员，美国国际婚礼摄影师协会会员，国内纪实婚礼摄影先行者	工具软件	种子轮	国内	https://www.itjuzi.com/person/77599
+张灵箫	小理助理 · 联合创始人	北京大学计算机软件与理论专业博士	工具软件	天使轮	国内	https://www.itjuzi.com/person/99542
+李绪进	有位停车 · 创始人	李绪进，广州市停车场行业协会副监事长、广东省人大常委会立法咨询专家、高级经济师。曾在全国首创楼巴业务，发起创办广州市停车场行业协会。编著有《停车场管理实务》一书。创业前工作于房地产、物业管理和停车场行业，在投资、管理、营销等领域具有丰富的实战经验。	工具软件	天使轮	国内	https://www.itjuzi.com/person/98246
+吕韶清	星舆科技 · CEO	吕韶清， 星舆科技CEO。	工具软件	Pre-A轮	国内	https://www.itjuzi.com/person/105971
+向春林	名片侠 · 总经理	向春林，深圳市青蜂侠互联网有限公司总经理	工具软件	A轮	国内	https://www.itjuzi.com/person/107197
+石济梁	石朗家 · 创始人	石济梁 ，为诸暨市石朗家庭农场创始人。	农业	种子轮	国内	https://www.itjuzi.com/person/62290
+徐秀贤	农拍档 · 董事长	徐秀贤，农拍档董事长。	农业	天使轮	国内	https://www.itjuzi.com/person/144428
+曾平琨	币源社区 · cmo	北京币源网络科技发展有限公司联合创始人	区块链	种子轮	国内	https://www.itjuzi.com/person/112335
+沈东雄	可盈科技 · CEO	沈东雄，可盈科技CEO。	区块链	Pre-A轮	国内	https://www.itjuzi.com/person/106257
+杨达豪	陀螺财经 · 联合创始人	前速途网中微媒总经理，媒界PRAD创始人,陀螺财经联合创始人	区块链	Pre-A轮	国内	https://www.itjuzi.com/person/100610
+陈佳瑜	胖猫宝 · 联合创始人	毕业于美国哥伦比亚大学，国际经济学硕士，精通英语、法语、德育等多国语言。此前曾任职于联合国发展署，担任坦桑尼亚政府《天然气开发政策》顾问，参与地产股权容易、网络众筹等项目。曾在纽约创立自己的瑜伽品牌3i New York Inc。	区块链	Pre-A轮	国内	https://www.itjuzi.com/person/68457
+王鹏	深链财经 · 创始人兼CEO	王鹏，原新京报“寻找中国创客”创始成员之一，原梅花天使创投总裁助理、公关投后总监。	区块链	Pre-A轮	国内	https://www.itjuzi.com/person/50671
+Eddy Chan	Affirm · Venture Investor	Eddy Chan is the Funding Partner at Intudo Ventures.	先进制造	A轮	海外	https://www.itjuzi.com/person/501342
+Steve Salis	SpaceX · Investor	Steve Salis is the Chairman and CEO of SIZZLE Acquisition and founder and CEO of Salis Holdings.	汽车交通	种子轮	海外	https://www.itjuzi.com/person/482005
+Martina Struck	Kini · Senior Vice President of Regulatory Affairs	Martina Struck is the Senior Vice President of Regulatory Affairs at Kiniksa Pharmaceuticals.	金融	种子轮	海外	https://www.itjuzi.com/person/451820
